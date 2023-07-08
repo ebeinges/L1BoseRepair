@@ -1,0 +1,1 @@
+exiftool -exif:all= -iptc:all= -time:all= -overwrite_original_in_place image_filename.jpg
