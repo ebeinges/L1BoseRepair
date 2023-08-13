@@ -9,5 +9,11 @@ I documented the disassembly with these diagrams:
 ![Showing main right side connections](/images/BoseL1-disassemblyE.JPG)
 ![Showing main right side connections](/images/BoseL1-disassemblyD.JPG)
 
+These are the photos for pulling out the Aux Power board:
+![Pulling the Aux Power board](BoseL1-pulling-aux-board1.jpg)
+![Pulling the Aux Power board](BoseL1-pulling-aux-board2.jpg)
+![Pulling the Aux Power board](BoseL1-pulling-aux-board3.jpg)
+![Pulling the Aux Power board](BoseL1-pulling-aux-board4.jpg)
+
 
 
